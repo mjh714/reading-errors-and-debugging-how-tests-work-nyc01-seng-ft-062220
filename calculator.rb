@@ -1,4 +1,4 @@
 # Add your variables here
-def  calculator.rb 
+def  
   first_number = 1 
 end
