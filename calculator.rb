@@ -1,4 +1,4 @@
 # Add your variables here
-def  
+def 
   first_number = 1 
 end
